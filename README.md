@@ -1,7 +1,5 @@
 
-# ✌️ Holaaaa!
-
-# DSCH-V
+# ✌️ DSCH-V
 
 🧠 **Nombre:** Santiago Vergaño  
 🕹️ **Clase:** Estudiante de Ingeniería de Sistemas  
