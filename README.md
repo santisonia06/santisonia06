@@ -1,5 +1,5 @@
 
-# ✌️ Hi my Bro!
+# ✌️ Holaaaa!
 
 # DSCH-V
 
