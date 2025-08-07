@@ -1,5 +1,5 @@
 
-# Hi my Bro!
+# ✌️ Hi my Bro!
 
 **DSCH-V** 
 
@@ -51,6 +51,7 @@
 3. ¡Envíame un Pull Request y subamos de nivel juntos!
 
 ---
+## ✨ Proyectos
 
 # Boomer
 
